@@ -1,0 +1,5 @@
+nyap-cake-site/
+├─ index.html            # Homepage
+├─ css/styles.css        # Styles (purple 3-tier cake, layout, confetti)
+├─ js/app.js             # Logic (add sticks, popup + confetti, local save, export/import)
+└─ assets/logo.png       # NYAP logo
